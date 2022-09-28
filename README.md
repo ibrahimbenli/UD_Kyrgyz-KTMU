@@ -5,7 +5,8 @@ UD_Kyrgyz-KTMU is dependency parsing based treebank in Kyrgyz language. Sentence
 The treebank consists of 6400 sentences (7.4K tokens) for now and its domain is mainly news headlines. Kyrgyz UD treebank follows the Universal Dependencies (UD) annotation standard.
 
 # Acknowledgments
-We would like to thank all the people who contributed to this corpus: Doç. Dr. Bakyt ŞARŞEMBAYEV ...
+We would like to thank all the people who contributed to this corpus: Assoc.Prof.Dr. Bakit Sharshembaev
+
 
 # References
 An academic paper describing this resource is pending, for the time being please use the repository URL to cite this dataset.
