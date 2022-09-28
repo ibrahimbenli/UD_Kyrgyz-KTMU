@@ -22,8 +22,8 @@ An academic paper describing this resource is pending, for the time being please
 Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
-Lemmas: automatic with corrections
+Genre: nonfiction news
+Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
 Features: manual native
